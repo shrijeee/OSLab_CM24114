@@ -1,0 +1,37 @@
+OPERATING SYSTEM LAB PRACTICAL OUTPUTS
+-------------------------------------
+
+PRACTICAL (a): MARKSHEET GENERATION
+----------------------------------
+Student Name : Shrijee
+Total Marks  : 232
+Percentage   : 77%
+Class        : First Class
+
+
+PRACTICAL (b): SYSTEM MENU
+-------------------------
+Selected Option : Display Date & Time
+
+<PASTE DATE & TIME OUTPUT HERE>
+
+
+PRACTICAL (c): FIBONACCI SERIES
+------------------------------
+Number of Terms : 7
+Output :
+0 1 1 2 3 5 8
+
+
+PRACTICAL (d): PRIME NUMBER
+--------------------------
+Entered Number : 13
+Result         : Prime Number
+
+
+PRACTICAL (e): FILE HANDLING
+---------------------------
+Operation : Create File
+Filename  : demo.txt
+Status    : File created successfully
+

@@ -1,0 +1,7 @@
+FIBONACCI SERIES OUTPUT
+
+Number of terms: 7
+Series:
+0 1 1 2 3 5 8Enter number of terms:
+Fibonacci Series:
+0 1 1 2 3 5 8 

@@ -1,0 +1,15 @@
+FILE HANDLING OUTPUT
+
+Operation : Create File
+Filename  : demo.txt
+Status    : File created successfully----------------------------
+      FILE MENU
+----------------------------
+1. Create File
+2. Write Content to File
+3. Update (Append) File
+4. Delete File Content
+----------------------------
+Enter your choice:
+Enter filename:
+File created successfully
