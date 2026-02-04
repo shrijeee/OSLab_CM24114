@@ -1,0 +1,9 @@
+Enter Student Name:
+Enter marks of Subject 1:
+Enter marks of Subject 2:
+Enter marks of Subject 3:
+----------------------
+Student Name : ../fibonacci.sh > fibonacci_output.txt
+Total Marks  : 
+Percentage   : 0%
+Class        : Fail

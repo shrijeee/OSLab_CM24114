@@ -1,0 +1,10 @@
+----------------------------
+      SYSTEM MENU
+----------------------------
+1. Display Calendar of current month
+2. Display today's Date & Time
+3. Display logged in users
+4. Display terminal number
+----------------------------
+Enter your choice:
+Invalid Choice

@@ -1,5 +1,0 @@
-PRIME NUMBER OUTPUT
-
-Entered Number : 13
-Result         : Prime NumberEnter a number:
-13 is a Prime number
